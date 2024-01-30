@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #5ccb5f;
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    align-items: center;
+}
+
+.head{
+    display: flex;
+    background-color: green;
+    flex-wrap: wrap;
+}
+
+a {
+    color: #fff;
+    font-size: medium;
+}
+
+.inicio {
+
+    display: flex;
+    background-color: #009929;
+    height: 4rem;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.proyectos {
+
+    display: flex;
+    background-color: #009929;
+    height: 4rem;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.galeria{
+    display: flex;
+    background-color: #009929;
+    height: 4rem;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactenos{
+    display: flex;
+    background-color: #009929;
+    height: 4rem;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton1{
+    color: #fff;
+    background-color: #006414
+
+}

@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-image:url(https://th.bing.com/th/id/R.0977391e414758b7463f3483ccdec18f?rik=j1SOUbLqXpcTBA&pid=ImgRaw&r=0);
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding:2px;
+    margin:1px;
+    font-family:'Raleway', sans-serif;
+    
+}
+
+.head{
+    display: flex;
+    flex-wrap: wrap; 
+
+    height: 5rem;
+    width: 100%;
+
+
+}
+
+a {
+    color: #fff;
+    font-size: medium;
+}
+
+.inicio {
+
+    display: flex;
+
+    height: 4rem;
+    width: 24%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #006414;
+    border-radius: 2rem;
+    margin: 5px;
+    padding: 10px;
+}
+
+.proyectos {
+
+    display: flex;
+    height: 4rem;
+    width: 24%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+        background-color: #006414;
+    border-radius: 2rem; 
+    margin: 5px
+    
+}
+
+.galeria{
+    display: flex;
+    height: 4rem;
+    width: 24%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+        background-color: #006414;
+    border-radius: 2rem;
+    margin: 5px
+    
+}
+
+.contactenos{
+    display: flex;
+    height: 4rem;
+    width: 24%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+        background-color: #006414;
+    border-radius: 2rem;
+    margin: 5px;
+}
+
+.boton1{
+    color: #fff;
+    background-color: #006414
+
+}
+div.texto{
+    font-size: 1.5em;   
+    padding: 15px;
+    color: #fff;
+}
+
+h1{
+    color: #fff;
+}
+
+  
+
